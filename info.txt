@@ -1,0 +1,1 @@
+INSERT INTO `email` (`Sno`, `email`, `time`) VALUES (NULL, 'jhondoe@gmail.com', current_timestamp());
